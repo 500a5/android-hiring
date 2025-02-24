@@ -5,4 +5,6 @@
     <color name="background_green">#7BA151</color>
     <color name="primary_green">#9BCC34</color>
     <color name="secondary_gray">#B2B2B3</color>
+    <color name="blue">#DEF3FE</color>
+    <color name="blue_dark">#3DB2FE</color>
 </resources>

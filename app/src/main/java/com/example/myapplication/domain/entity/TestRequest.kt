@@ -1,4 +1,4 @@
-package com.example.myapplication.network
+package com.example.myapplication.domain.entity
 
 data class TestRequest(
     val gender: String,
